@@ -1,0 +1,38 @@
+P{
+  hyphens: auto;
+}
+LI{
+  font-size:25px;
+}
+body{
+  background-image:url("../images/32.png");
+}
+header{
+  color: #fff;
+  text-align:center;
+  background: rgba(133, 133, 133, 0.7);
+  width:800px;
+  margin:auto;
+}
+section{
+  padding: 5px;
+  color: #fff;
+  background: rgba(133, 133, 133, 0.7);
+    margin-left:320px;
+    hyphens: auto;
+}
+aside {
+background: rgba(133, 133, 133, 0.7);
+width:300px;
+float: left;
+height:200px;
+}
+Footer{
+color: #fff;
+font-size:20px;
+margin-top:600px;
+background: rgba(133, 133, 133, 0.7);
+}
+H2{
+text-align: center;
+}
